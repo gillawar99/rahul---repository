@@ -1,0 +1,1 @@
+checking whether merge option is blocked or not
